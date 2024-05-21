@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\settingsdialog.o
+./release\console.o
+./release\protocol.o
+./release\cam_setup.o
+./release\settings_brake_distance.o
+./release\qrc_terminal.o
+./release\moc_mainwindow.o
+./release\moc_settingsdialog.o
+./release\moc_console.o
+./release\moc_protocol.o
+./release\moc_cam_setup.o
+./release\moc_settings_brake_distance.o
+);
